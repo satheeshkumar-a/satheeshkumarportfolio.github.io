@@ -23,7 +23,7 @@ function Education() {
                                     </div>
                                     <div className={classes.label}>
                                     <h2 >Higher Education  <span>2010-2012</span></h2>
-                                    <p>I have completed my higher education in KRM HSS,Chennai with major subjects as Physics,Chemistry & Maths with 89.3 merit in Stateboard. </p>
+                                    <p>I have completed my higher education in Mahirishi Vidhya Mandhir,Chennai with major subjects as Physics,Chemistry & Maths with  merit 85.2 in Stateboard. </p>
                                     </div>
                                 </article>
                             </ScrollAnimation>
@@ -38,31 +38,7 @@ function Education() {
                                     </div>
                                 </article>
                             </ScrollAnimation>
-
-                            <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible ={true}>
-                                <article className={classes.timeline_entry}>
-                                    <div className={classes.timeline_icon} >
-                                    <MdSchool />
-                                    </div>
-                                    <div className={classes.label}>
-                                    <h2 >Post Graduation in College of Engineering Guindy,Anna University <span>2017-2019</span></h2>
-                                    <p>I  completed my Postgraduation ME in  (Manufacturing systems and Management) from <a href='https://www.annauniv.edu/'>Anna University</a>. </p>
-                                    </div>
-                                </article>
-                            </ScrollAnimation>
-                            
-                            {/* <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible ={true}>
-                                <article>
-                                    <div className={`${classes.timeline_icon} ${classes.timeline_icon_4}`} >
-                                        <MdWork />     
-                                    </div>
-                                    <div className={classes.label}>
-                                    <h2 >Post Graduation in College of Engineering Guindy,Anna University  </h2>
-                                    <p></p>
-                                    </div>
-                                    <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
-                                </article>
-                            </ScrollAnimation> */}
+                 
                         </div>
                     </div>
                 </div>

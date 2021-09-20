@@ -11,9 +11,9 @@ function About() {
                     <span  className={classes.head}>ABOUT ME</span>
                     <h2 className={classes.heading}>Who Am I?</h2>
                     <div className={classes.About}>
-                        <p> Sarankumar Passionate MERN stack Student Seeking for an Opportunity to work in Challenging environment :)  </p>
+                        <p> Passionate MERN stack Student Seeking for an Opportunity to work in Challenging environment :)  </p>
                          <p className={classes.br}>I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
- </p>
+                    </p>
                     </div>
                 </ScrollAnimation>
             </div>

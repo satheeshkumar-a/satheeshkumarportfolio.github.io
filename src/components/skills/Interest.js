@@ -13,19 +13,19 @@ function Interest() {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
                 <h3></h3>
-                <p>I am University Rank holder in Department of Production Engineering (5th Rank)</p>
+                <p>----------------------</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.app}>
                 <h3>Web Develpoment</h3>
-                <p>I am a full stack web developer(MERN) and build websites using HTML, CSS, Javascript, ReactJs, Node Js<br /> I have also good Knowledge on and NoSQL(MongoDb),NPM packages</p>
+                <p>I am a full stack web developer(MERN) and build websites using HTML, CSS, Javascript, ReactJs, Node Js<br /> I have also good Knowledge on and NoSQL(MongoDb),NPM packages,AWS</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>Cooking, Travelling and Photography .<br />I passionate in learning Foreign Language, I Speak Japanese language N4 Level and Appearing in exam for N3 level </p>
+                <p>Cooking, Travelling.<br />I passionate in learning New Emerging techonologies. </p>
               </div>
             </ScrollAnimation>
           </div>

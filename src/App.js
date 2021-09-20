@@ -24,9 +24,9 @@ function App() {
         </div>
           <div className="main">
             <div>
-               <CarouselImages />
+              <CarouselImages />
             </div>
-               <About />
+              <About />
               <Interest />
               <Education />
           </div>
