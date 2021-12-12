@@ -89,6 +89,32 @@ function Projects() {
             </div>
           </ScrollAnimation>
         </div>
+        <div className={classes.Interest}>
+          <ScrollAnimation
+            offset="0"
+            animateIn="fadeInLeft"
+            duration="2.4"
+            animateOnce="true"
+            initiallyVisible={true}
+          >
+            <div className={classes.web}>
+              <h3>Emaily</h3>
+              <p>
+                Emaily is an application which is lets you send surveys (via
+                email) to thousands of people at one time. It allows you to
+                customise the content of the email, and tracks each response to
+                the surveys in the dashboard.
+              </p>
+              <a
+                href="https://emailyfeed.herokuapp.com/"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                Explore it
+              </a>
+            </div>
+          </ScrollAnimation>
+        </div>
       </ScrollAnimation>
     </div>
   );

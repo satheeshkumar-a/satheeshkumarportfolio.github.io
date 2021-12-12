@@ -30,6 +30,11 @@ function Sidebar() {
             </Link>
           </li>
           <li className="sidebar-nav-items">
+            <Link smooth to="/#skills" className="links">
+              Skills
+            </Link>
+          </li>
+          <li className="sidebar-nav-items">
             <Link smooth to="/#projects" className="links">
               Projects
             </Link>

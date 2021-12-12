@@ -5,6 +5,7 @@ import Sidebar from "./components/sidebar/Sidebar";
 import About from "./components/about/About";
 import Education from "./components/Education/Education";
 import Projects from "./components/skills/Projects";
+import Skills from "./components/languages/Skills";
 import CarouselImages from "./components/carousel/CarouselImages.js";
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
             <CarouselImages />
           </div>
           <About />
+          <Skills />
           <Projects />
           <Education />
         </div>
