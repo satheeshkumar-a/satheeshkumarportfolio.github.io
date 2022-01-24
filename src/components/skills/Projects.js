@@ -36,6 +36,15 @@ function Projects() {
               >
                 Explore it
               </a>
+              <br />
+              <a
+                href="https://github.com/satheeshkumar-a/chat-app"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                GitHub Link
+              </a>
+              <h5>TechStack Used: ReactJs,NodeJs,Express,MongoDb,SocketIo</h5>
             </div>
           </ScrollAnimation>
 
@@ -62,6 +71,15 @@ function Projects() {
               >
                 Explore it
               </a>
+              <br />
+              <a
+                href="https://github.com/satheeshkumar-a/GitHubFinder"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                GitHub Link
+              </a>
+              <h5>TechStack Used: ReactJs,axios,react-dom,react-router-dom</h5>
             </div>
           </ScrollAnimation>
 
@@ -86,9 +104,19 @@ function Projects() {
               >
                 Explore it
               </a>
+              <br />
+              <a
+                href="https://github.com/satheeshkumar-a/To-Do-List"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                GitHub Link
+              </a>
+              <h5>TechStack Used: ReactJs,NodeJs,Express,MongoDb</h5>
             </div>
           </ScrollAnimation>
         </div>
+
         <div className={classes.Interest}>
           <ScrollAnimation
             offset="0"
@@ -112,6 +140,55 @@ function Projects() {
               >
                 Explore it
               </a>
+              <br />
+              <a
+                href="https://github.com/satheeshkumar-a/Feedback"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                GitHub Link
+              </a>
+              <h5>
+                TechStack Used:
+                ReactJs,Redux,NodeJs,Express,MongoDb,passport-google-oauth20,sendgrid,stripe
+              </h5>
+            </div>
+          </ScrollAnimation>
+
+          <ScrollAnimation
+            offset="0"
+            animateIn="fadeInLeft"
+            duration="2.4"
+            animateOnce="true"
+            initiallyVisible={true}
+          >
+            <div className={classes.app}>
+              <h3>Ecommerce</h3>
+              <p>
+                A website that allows people to buy and sell physical Books, and
+                digital products over the internet. Through an e-commerce
+                website, a business can process orders, accept payments, manage
+                shipping and logistics.
+              </p>
+              <a
+                href="https://best-bags.herokuapp.com/products/"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                Explore it
+              </a>
+              <br />
+              <a
+                href="https://github.com/satheeshkumar-a/ecommerce-book"
+                rel="opener noreferrer"
+                target="_blank"
+              >
+                GitHub Link
+              </a>
+              <h5>
+                TechStack Used:
+                ReactJs,NodeJs,Express,MongoDb,Jwt,braintree,cors,uuid
+              </h5>
             </div>
           </ScrollAnimation>
         </div>
