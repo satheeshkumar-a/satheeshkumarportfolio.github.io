@@ -98,7 +98,7 @@ function Projects() {
                 things that are important to you.
               </p>
               <a
-                href="https://2do-list-app.netlify.app"
+                href="https://tv2z-app.herokuapp.com/"
                 rel="opener noreferrer"
                 target="_blank"
               >
